@@ -3,4 +3,4 @@
 
 ABOUT THIS PROJECT
 
-This project is created with an api key provided by https://gnews.io/. This project is purely made for educational and development purposes.
+This project is created with an api key provided by https://gnews.io/. This project is purely made for educational and development purposes. It also uses the help of different youtube videos online.
